@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.blog-info {
+  padding-left: 120px;
+  padding-right: 120px;
+}
+.author-details {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.blog-image {
+  width: 700px;
+  height: 300px;
+}
+.title {
+  font-size: 26px;
+  text-align: center;
+}
+.author-name {
+  color: #8e8e8e;
+  font-size: 16px;
+  text-decoration: none;
+}
